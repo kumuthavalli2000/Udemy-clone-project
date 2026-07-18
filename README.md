@@ -1,30 +1,26 @@
-# Udemy Clone Website
+# 🎓 Udemy Clone Website
 
-## 📌 Project Overview
+A responsive Udemy-inspired website built using HTML5 and CSS3 as part of my front-end web development learning journey.
 
-This project is a front-end clone of the Udemy website created as part of my web development learning journey. It is built using **HTML5** and **CSS3** to practice creating responsive layouts, navigation bars, course cards, sections, and overall webpage structure.
+## 🚀 Live Demo
+https://kumuthavalli2000.github.io/Udemy-clone-project/
 
-## 🚀 Features
+## 💻 GitHub Repository
+https://github.com/kumuthavalli2000/Udemy-clone-project
 
-* Responsive webpage layout
-* Navigation bar with search functionality
-* Course cards and categories
-* Clean and modern user interface
-* Built using semantic HTML and CSS styling
+## ✨ Features
+- Responsive layout
+- Navigation bar
+- Search section
+- Course cards
+- Footer
+- Clean UI
 
 ## 🛠️ Technologies Used
+- HTML5
+- CSS3
 
-* HTML5
-* CSS3
+## 📚 About
+This project was created to practice HTML and CSS by recreating the design of a real-world learning platform. JavaScript will be added in future updates.
 
-## 🎯 Purpose
-
-The purpose of this project is to strengthen my understanding of HTML and CSS by recreating the design of a real-world website. This project helped me practice webpage layout, styling, spacing, positioning, flexbox, and responsive design techniques.
-
-## 📚 Learning Note
-
-This project was developed before learning JavaScript. Future updates will include JavaScript to add interactive features and improve the overall user experience.
-
-## 🙌 Feedback
-
-Suggestions and feedback are always welcome as I continue learning and improving my web development skills.
+Feedback and suggestions are always welcome!
